@@ -58,14 +58,9 @@
 		DA9FDE271F6F612A00969228 /* AutoLayout Tutorial */ = {
 			isa = PBXGroup;
 			children = (
-				DA9FDE2B1F6F612A00969228 /* AppDelegate.h */,
-				DA9FDE2C1F6F612A00969228 /* AppDelegate.m */,
+				DA9FDE311F6F612A00969228 /* Main.storyboard */,
 				DA9FDE2E1F6F612A00969228 /* ViewController.h */,
 				DA9FDE2F1F6F612A00969228 /* ViewController.m */,
-				DA9FDE311F6F612A00969228 /* Main.storyboard */,
-				DA9FDE341F6F612A00969228 /* Assets.xcassets */,
-				DA9FDE361F6F612A00969228 /* LaunchScreen.storyboard */,
-				DA9FDE391F6F612A00969228 /* Info.plist */,
 				DA9FDE281F6F612A00969228 /* Supporting Files */,
 			);
 			path = "AutoLayout Tutorial";
@@ -74,6 +69,11 @@
 		DA9FDE281F6F612A00969228 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DA9FDE2B1F6F612A00969228 /* AppDelegate.h */,
+				DA9FDE2C1F6F612A00969228 /* AppDelegate.m */,
+				DA9FDE341F6F612A00969228 /* Assets.xcassets */,
+				DA9FDE361F6F612A00969228 /* LaunchScreen.storyboard */,
+				DA9FDE391F6F612A00969228 /* Info.plist */,
 				DA9FDE291F6F612A00969228 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -311,6 +311,7 @@
 				DA9FDE3E1F6F612A00969228 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
